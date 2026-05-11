@@ -1,0 +1,1 @@
+const l=[{value:"health",label:"健康原因"},{value:"family",label:"家人要求"},{value:"economy",label:"经济压力"},{value:"other",label:"其他原因"}],e=[{value:"stress",label:"压力"},{value:"emotion",label:"情绪"},{value:"social",label:"应酬"},{value:"boredom",label:"无聊"},{value:"other",label:"其他"}];export{l as Q,e as R};
